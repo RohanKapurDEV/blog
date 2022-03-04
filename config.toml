@@ -1,6 +1,6 @@
-baseURL = 'https://testblog-anesxtahf-rohankapurdev.vercel.app/'
+baseURL = '/'
 languageCode = 'en-us'
-title = "Rohan's Blog"
+title = "Rohans Blog"
 theme = "cactus"
 copyright = "Rohan Kapur"
 
