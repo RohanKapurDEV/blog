@@ -1,0 +1,34 @@
+baseURL = 'https://testblog-anesxtahf-rohankapurdev.vercel.app/'
+languageCode = 'en-us'
+title = "Rohan's Blog"
+theme = "cactus"
+copyright = "Rohan Kapur"
+
+[params]
+colortheme = "dark"
+description = "Hey, I'm Rohan. I'm currently a software developer at GooseFX, where my work primarily consists of protocol engineering for the Solana blockchain and building scalable backend services. My weapons of choice are Rust and Typescript. The best ways to reach me are on Twitter and Telegram. DMs are always open!"
+showProjectsList = true
+rss = true
+mathjax = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/RohanKapurDEV"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://www.twitter.com/0xrohan"
+
+[[params.social]]
+  name = "email"
+  link = "kapurrohan56@gmail.com" # no need for "mailto:" at the start

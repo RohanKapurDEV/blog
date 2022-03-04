@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name": "Orion",
+      "url": "https://github.com/RohanKapurDEV/orion",
+      "desc": "A protocol for automatic subscription payments on Solana"
+    },
+    {
+      "name": "Paymint",
+      "url": "https://github.com/Paymint-Labs/Paymint",
+      "desc": "A Bitcoin wallet for Android, with UTXO control"
+    }
+  ]
+}
