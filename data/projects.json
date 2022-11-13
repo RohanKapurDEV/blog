@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "name": "Sudoswap SOL",
+      "url": "https://github.com/RohanKapurDEV/sudoswap-sol",
+      "desc": "An implementation of the sudoswap amm on Solana"
+    },
+    {
       "name": "Orion",
       "url": "https://github.com/RohanKapurDEV/orion",
       "desc": "A protocol for automatic subscription payments on Solana"
